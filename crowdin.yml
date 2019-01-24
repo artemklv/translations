@@ -1,0 +1,7 @@
+files:
+  - source: /my/ru.yml
+    translation: '%two_letters_code%'
+    languages_mapping:
+      language:
+        pt-BR: pt_BR.yml
+        en: en.yml
